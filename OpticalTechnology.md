@@ -92,3 +92,7 @@ pulse spreading|脉冲展宽：一条长度相同的光纤上，最高次模与�
   The fraction of the total power launched into a multimode fibre that is carried by each mode
  
  <div align="center"><img src="./Pic/2.3.png" width="400"></div>
+
+## single-mode optical fiber
+
+ - It can ensure that only the lowest-order mode is propagated.
